@@ -5,5 +5,5 @@
 </br>Install all the requirements first.
 </br>Then run the python file in terminal.
 </br>e.g python3 filename.py
-hit enter.
+</br>hit enter.
 </html>
